@@ -35,3 +35,5 @@ exports.seedJobs = function() {
         }
     })
 };
+
+exports.saveJob = createJob;
